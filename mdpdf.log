@@ -1,0 +1,368 @@
+    INFO: 2025-05-17 14:58:08,711:               log.py:   20: Logging to E:\talta\term 6\Deep Learning\DeepLearningInteractiveVis\mdpdf.log
+   DEBUG: 2025-05-17 14:58:08,712:               cli.py:  103: project_documentation.md
+    INFO: 2025-05-17 14:58:08,714:         converter.py:   14: project_documentation.md
+   DEBUG: 2025-05-17 14:58:08,733:      pdf_renderer.py:  470: printSegment: Deep Learning Interactive Visualization
+   DEBUG: 2025-05-17 14:58:08,736:      pdf_renderer.py:  470: printSegment: Project Documentation
+   DEBUG: 2025-05-17 14:58:08,737:      pdf_renderer.py:  470: printSegment: Table of Contents
+   DEBUG: 2025-05-17 14:58:08,738:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-05-17 14:58:08,742:      pdf_renderer.py:  470: printSegment: Project Overview
+   ERROR: 2025-05-17 14:58:08,746:      pdf_renderer.py:  217: E:\talta\term 6\Deep Learning\DeepLearningInteractiveVis\project_documentation.md:5: #project-overview: No such file or directory
+   DEBUG: 2025-05-17 14:58:08,747:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-05-17 14:58:08,748:      pdf_renderer.py:  470: printSegment: Technical Architecture
+   ERROR: 2025-05-17 14:58:08,749:      pdf_renderer.py:  217: E:\talta\term 6\Deep Learning\DeepLearningInteractiveVis\project_documentation.md:6: #technical-architecture: No such file or directory
+   DEBUG: 2025-05-17 14:58:08,750:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-05-17 14:58:08,751:      pdf_renderer.py:  470: printSegment: Implementation Details
+   ERROR: 2025-05-17 14:58:08,752:      pdf_renderer.py:  217: E:\talta\term 6\Deep Learning\DeepLearningInteractiveVis\project_documentation.md:7: #implementation-details: No such file or directory
+   DEBUG: 2025-05-17 14:58:08,753:      pdf_renderer.py:  470: printSegment:  4 
+   DEBUG: 2025-05-17 14:58:08,755:      pdf_renderer.py:  470: printSegment: Core Components
+   ERROR: 2025-05-17 14:58:08,755:      pdf_renderer.py:  217: E:\talta\term 6\Deep Learning\DeepLearningInteractiveVis\project_documentation.md:8: #core-components: No such file or directory
+   DEBUG: 2025-05-17 14:58:08,756:      pdf_renderer.py:  470: printSegment:  5 
+   DEBUG: 2025-05-17 14:58:08,756:      pdf_renderer.py:  470: printSegment: Installation 
+   DEBUG: 2025-05-17 14:58:08,757:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2025-05-17 14:58:08,758:      pdf_renderer.py:  470: printSegment:  Setup
+   ERROR: 2025-05-17 14:58:08,760:      pdf_renderer.py:  217: E:\talta\term 6\Deep Learning\DeepLearningInteractiveVis\project_documentation.md:9: #installation--setup: No such file or directory
+   DEBUG: 2025-05-17 14:58:08,761:      pdf_renderer.py:  470: printSegment:  6 
+   DEBUG: 2025-05-17 14:58:08,763:      pdf_renderer.py:  470: printSegment: Usage Guide
+   ERROR: 2025-05-17 14:58:08,764:      pdf_renderer.py:  217: E:\talta\term 6\Deep Learning\DeepLearningInteractiveVis\project_documentation.md:10: #usage-guide: No such file or directory
+   DEBUG: 2025-05-17 14:58:08,765:      pdf_renderer.py:  470: printSegment:  7 
+   DEBUG: 2025-05-17 14:58:08,766:      pdf_renderer.py:  470: printSegment: Code Documentation
+   ERROR: 2025-05-17 14:58:08,767:      pdf_renderer.py:  217: E:\talta\term 6\Deep Learning\DeepLearningInteractiveVis\project_documentation.md:11: #code-documentation: No such file or directory
+   DEBUG: 2025-05-17 14:58:08,769:      pdf_renderer.py:  470: printSegment:  8 
+   DEBUG: 2025-05-17 14:58:08,770:      pdf_renderer.py:  470: printSegment: Research Impact
+   ERROR: 2025-05-17 14:58:08,771:      pdf_renderer.py:  217: E:\talta\term 6\Deep Learning\DeepLearningInteractiveVis\project_documentation.md:12: #research-impact: No such file or directory
+   DEBUG: 2025-05-17 14:58:08,774:      pdf_renderer.py:  470: printSegment: Project Overview
+   DEBUG: 2025-05-17 14:58:08,775:      pdf_renderer.py:  470: printSegment: Purpose
+   DEBUG: 2025-05-17 14:58:08,781:      pdf_renderer.py:  470: printSegment: This project implements an interactive visualization system for understanding and interpreting 3D Convolutional
+   DEBUG: 2025-05-17 14:58:08,782:      pdf_renderer.py:  470: printSegment: Neural Networks (CNNs) used in Alzheimer
+   DEBUG: 2025-05-17 14:58:08,784:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-05-17 14:58:08,790:      pdf_renderer.py:  470: printSegment: s disease detection. The system allows medical professionals and
+   DEBUG: 2025-05-17 14:58:08,792:      pdf_renderer.py:  470: printSegment: researchers to visualize which brain regions contribute most significantly to the model
+   DEBUG: 2025-05-17 14:58:08,793:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-05-17 14:58:08,795:      pdf_renderer.py:  470: printSegment: s decisions.
+   DEBUG: 2025-05-17 14:58:08,796:      pdf_renderer.py:  470: printSegment: Publication
+   DEBUG: 2025-05-17 14:58:08,797:      pdf_renderer.py:  470: printSegment: The project is published in Alzheimer
+   DEBUG: 2025-05-17 14:58:08,797:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-05-17 14:58:08,797:      pdf_renderer.py:  470: printSegment: s Research 
+   DEBUG: 2025-05-17 14:58:08,799:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2025-05-17 14:58:08,800:      pdf_renderer.py:  470: printSegment:  Therapy (2021):
+   DEBUG: 2025-05-17 14:58:08,800:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,802:      pdf_renderer.py:  470: printSegment: Title: 
+   DEBUG: 2025-05-17 14:58:08,804:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-17 14:58:08,807:      pdf_renderer.py:  470: printSegment: Improving 3D convolutional neural network comprehensibility via interactive visualization
+   DEBUG: 2025-05-17 14:58:08,809:      pdf_renderer.py:  470: printSegment: of relevance maps
+   DEBUG: 2025-05-17 14:58:08,810:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-05-17 14:58:08,810:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,811:      pdf_renderer.py:  470: printSegment: DOI: 10.1186/s13195-021-00924-2
+   DEBUG: 2025-05-17 14:58:08,812:      pdf_renderer.py:  470: printSegment: Key Features
+   DEBUG: 2025-05-17 14:58:08,814:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,815:      pdf_renderer.py:  470: printSegment: 3D CNN model for Alzheimer
+   DEBUG: 2025-05-17 14:58:08,815:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-05-17 14:58:08,816:      pdf_renderer.py:  470: printSegment: s disease detection
+   DEBUG: 2025-05-17 14:58:08,816:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,817:      pdf_renderer.py:  470: printSegment: Interactive visualization of brain regions
+   DEBUG: 2025-05-17 14:58:08,818:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,818:      pdf_renderer.py:  470: printSegment: Real-time relevance mapping
+   DEBUG: 2025-05-17 14:58:08,818:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,820:      pdf_renderer.py:  470: printSegment: Web-based interface using Bokeh
+   DEBUG: 2025-05-17 14:58:08,820:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,822:      pdf_renderer.py:  470: printSegment: Docker containerization for easy deployment
+   DEBUG: 2025-05-17 14:58:08,823:      pdf_renderer.py:  470: printSegment: Technical Architecture
+   DEBUG: 2025-05-17 14:58:08,824:      pdf_renderer.py:  470: printSegment: MVC Architecture
+   DEBUG: 2025-05-17 14:58:08,824:      pdf_renderer.py:  470: printSegment: The project follows the Model-View-Controller (MVC) pattern:
+   DEBUG: 2025-05-17 14:58:08,824:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,826:      pdf_renderer.py:  470: printSegment: Model
+   DEBUG: 2025-05-17 14:58:08,828:      pdf_renderer.py:  470: printSegment:  (
+   DEBUG: 2025-05-17 14:58:08,830:      pdf_renderer.py:  470: printSegment: datamodel.py
+   DEBUG: 2025-05-17 14:58:08,833:      pdf_renderer.py:  470: printSegment: ): Handles data processing and CNN operations
+   DEBUG: 2025-05-17 14:58:08,833:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,835:      pdf_renderer.py:  470: printSegment: View
+   DEBUG: 2025-05-17 14:58:08,835:      pdf_renderer.py:  470: printSegment:  (
+   DEBUG: 2025-05-17 14:58:08,836:      pdf_renderer.py:  470: printSegment: view.py
+   DEBUG: 2025-05-17 14:58:08,837:      pdf_renderer.py:  470: printSegment: ): Manages the visualization interface
+   DEBUG: 2025-05-17 14:58:08,837:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,838:      pdf_renderer.py:  470: printSegment: Controller
+   DEBUG: 2025-05-17 14:58:08,840:      pdf_renderer.py:  470: printSegment:  (
+   DEBUG: 2025-05-17 14:58:08,840:      pdf_renderer.py:  470: printSegment: main.py
+   DEBUG: 2025-05-17 14:58:08,840:      pdf_renderer.py:  470: printSegment: ): Coordinates user interactions and updates
+   DEBUG: 2025-05-17 14:58:08,842:      pdf_renderer.py:  470: printSegment: Core Technologies
+   DEBUG: 2025-05-17 14:58:08,842:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-05-17 14:58:08,843:      pdf_renderer.py:  470: printSegment: Backend
+   DEBUG: 2025-05-17 14:58:08,845:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,846:      pdf_renderer.py:  470: printSegment: Python for core implementation
+   DEBUG: 2025-05-17 14:58:08,847:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,848:      pdf_renderer.py:  470: printSegment: TensorFlow 1.15 for CNN model
+   DEBUG: 2025-05-17 14:58:08,848:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,849:      pdf_renderer.py:  470: printSegment: Bokeh for web visualization
+   DEBUG: 2025-05-17 14:58:08,849:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,850:      pdf_renderer.py:  470: printSegment: NumPy for numerical computations
+   DEBUG: 2025-05-17 14:58:08,850:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-05-17 14:58:08,851:      pdf_renderer.py:  470: printSegment: Frontend
+   DEBUG: 2025-05-17 14:58:08,852:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,852:      pdf_renderer.py:  470: printSegment: Bokeh web application
+   DEBUG: 2025-05-17 14:58:08,853:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,853:      pdf_renderer.py:  470: printSegment: Interactive HTML5 interface
+   DEBUG: 2025-05-17 14:58:08,854:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,854:      pdf_renderer.py:  470: printSegment: Real-time data visualization
+   DEBUG: 2025-05-17 14:58:08,855:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-05-17 14:58:08,856:      pdf_renderer.py:  470: printSegment: Deployment
+   DEBUG: 2025-05-17 14:58:08,856:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,857:      pdf_renderer.py:  470: printSegment: Docker containerization
+   DEBUG: 2025-05-17 14:58:08,857:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,858:      pdf_renderer.py:  470: printSegment: Web service deployment
+   DEBUG: 2025-05-17 14:58:08,858:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,859:      pdf_renderer.py:  470: printSegment: Local installation support
+   DEBUG: 2025-05-17 14:58:08,860:      pdf_renderer.py:  470: printSegment: Implementation Details
+   DEBUG: 2025-05-17 14:58:08,860:      pdf_renderer.py:  470: printSegment: CNN Model
+   DEBUG: 2025-05-17 14:58:08,862:      pdf_renderer.py:  470: printSegment: The system uses a 3D Convolutional Neural Network specifically designed for brain image analysis:
+   DEBUG: 2025-05-17 14:58:08,863:      pdf_renderer.py:  470: printSegment: def apply_thresholds(self, relevance_map, threshold=0.5,
+   DEBUG: 2025-05-17 14:58:08,864:      pdf_renderer.py:  470: printSegment: cluster_size=20):
+   DEBUG: 2025-05-17 14:58:08,865:      pdf_renderer.py:  470: printSegment:     # Apply threshold to relevance map
+   DEBUG: 2025-05-17 14:58:08,866:      pdf_renderer.py:  470: printSegment:     self.overlay = np.copy(relevance_map)
+   DEBUG: 2025-05-17 14:58:08,867:      pdf_renderer.py:  470: printSegment:     self.overlay[np.abs(self.overlay) < threshold] = 0
+   DEBUG: 2025-05-17 14:58:08,868:      pdf_renderer.py:  470: printSegment:     
+   DEBUG: 2025-05-17 14:58:08,869:      pdf_renderer.py:  470: printSegment:     # Cluster size filtering
+   DEBUG: 2025-05-17 14:58:08,869:      pdf_renderer.py:  470: printSegment:     labelimg = np.copy(self.overlay)
+   DEBUG: 2025-05-17 14:58:08,870:      pdf_renderer.py:  470: printSegment:     labelimg[labelimg > 0] = 1  # binarize img
+   DEBUG: 2025-05-17 14:58:08,871:      pdf_renderer.py:  470: printSegment:     labelimg = label(labelimg, connectivity=2)
+   DEBUG: 2025-05-17 14:58:08,872:      pdf_renderer.py:  470: printSegment:     
+   DEBUG: 2025-05-17 14:58:08,872:      pdf_renderer.py:  470: printSegment:     # Calculate cluster properties
+   DEBUG: 2025-05-17 14:58:08,873:      pdf_renderer.py:  470: printSegment:     lprops = regionprops(labelimg, intensity_image=self.overlay)
+   DEBUG: 2025-05-17 14:58:08,874:      pdf_renderer.py:  470: printSegment: Visualization System
+   DEBUG: 2025-05-17 14:58:08,875:      pdf_renderer.py:  470: printSegment: The visualization component converts neural network outputs into interpretable visual representations:
+   DEBUG: 2025-05-17 14:58:08,876:      pdf_renderer.py:  470: printSegment: def overlay2rgba(relevance_map, alpha=0.5):
+   DEBUG: 2025-05-17 14:58:08,877:      pdf_renderer.py:  470: printSegment:     # Convert relevance map to RGBA visualization
+   DEBUG: 2025-05-17 14:58:08,879:      pdf_renderer.py:  470: printSegment:     alpha_mask = np.copy(relevance_map)
+   DEBUG: 2025-05-17 14:58:08,879:      pdf_renderer.py:  470: printSegment:     alpha_mask[np.abs(alpha_mask) > 0] = alpha
+   DEBUG: 2025-05-17 14:58:08,880:      pdf_renderer.py:  470: printSegment:     
+   DEBUG: 2025-05-17 14:58:08,881:      pdf_renderer.py:  470: printSegment:     # Scale to color range
+   DEBUG: 2025-05-17 14:58:08,882:      pdf_renderer.py:  470: printSegment:     relevance_map = relevance_map / 2 + 0.5
+   DEBUG: 2025-05-17 14:58:08,883:      pdf_renderer.py:  470: printSegment:     ovl = np.uint8(overlay_colormap(relevance_map) * 255)
+   DEBUG: 2025-05-17 14:58:08,884:      pdf_renderer.py:  470: printSegment:     ovl[:, :, :, 3] = np.uint8(alpha_mask * 255)
+   DEBUG: 2025-05-17 14:58:08,884:      pdf_renderer.py:  470: printSegment:     
+   DEBUG: 2025-05-17 14:58:08,886:      pdf_renderer.py:  470: printSegment:     return ovl.view("uint32").reshape(ovl.shape[:3])
+   DEBUG: 2025-05-17 14:58:08,887:      pdf_renderer.py:  470: printSegment: Interactive Features
+   DEBUG: 2025-05-17 14:58:08,888:      pdf_renderer.py:  470: printSegment: The system provides real-time interaction with brain visualizations:
+   DEBUG: 2025-05-17 14:58:08,889:      pdf_renderer.py:  470: printSegment: def click_frontal_callback(event):
+   DEBUG: 2025-05-17 14:58:08,889:      pdf_renderer.py:  470: printSegment:     # Handle user interaction with frontal brain view
+   DEBUG: 2025-05-17 14:58:08,889:      pdf_renderer.py:  470: printSegment:     if event.x < 1:
+   DEBUG: 2025-05-17 14:58:08,891:      pdf_renderer.py:  470: printSegment:         x = 1
+   DEBUG: 2025-05-17 14:58:08,892:      pdf_renderer.py:  470: printSegment:     elif event.x > slice_slider_sagittal.end:
+   DEBUG: 2025-05-17 14:58:08,892:      pdf_renderer.py:  470: printSegment:         x = slice_slider_sagittal.end
+   DEBUG: 2025-05-17 14:58:08,893:      pdf_renderer.py:  470: printSegment:     else:
+   DEBUG: 2025-05-17 14:58:08,894:      pdf_renderer.py:  470: printSegment:         x = int(round(event.x))
+   DEBUG: 2025-05-17 14:58:08,895:      pdf_renderer.py:  470: printSegment:         
+   DEBUG: 2025-05-17 14:58:08,896:      pdf_renderer.py:  470: printSegment:     # Update other views
+   DEBUG: 2025-05-17 14:58:08,896:      pdf_renderer.py:  470: printSegment:     slice_slider_sagittal.update(value=x)
+   DEBUG: 2025-05-17 14:58:08,897:      pdf_renderer.py:  470: printSegment:     slice_slider_axial.update(value=y)
+   DEBUG: 2025-05-17 14:58:08,898:      pdf_renderer.py:  470: printSegment:     plot_sagittal()
+   DEBUG: 2025-05-17 14:58:08,899:      pdf_renderer.py:  470: printSegment: Core Components
+   DEBUG: 2025-05-17 14:58:08,899:      pdf_renderer.py:  470: printSegment: 1. Data Model (
+   DEBUG: 2025-05-17 14:58:08,900:      pdf_renderer.py:  470: printSegment: datamodel.py
+   DEBUG: 2025-05-17 14:58:08,901:      pdf_renderer.py:  470: printSegment: )
+   DEBUG: 2025-05-17 14:58:08,901:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,902:      pdf_renderer.py:  470: printSegment: Handles data preprocessing
+   DEBUG: 2025-05-17 14:58:08,903:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,903:      pdf_renderer.py:  470: printSegment: Manages CNN model interactions
+   DEBUG: 2025-05-17 14:58:08,904:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,905:      pdf_renderer.py:  470: printSegment: Processes relevance maps
+   DEBUG: 2025-05-17 14:58:08,905:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,906:      pdf_renderer.py:  470: printSegment: Coordinates data flow between components
+   DEBUG: 2025-05-17 14:58:08,907:      pdf_renderer.py:  470: printSegment: 2. View System (
+   DEBUG: 2025-05-17 14:58:08,907:      pdf_renderer.py:  470: printSegment: view.py
+   DEBUG: 2025-05-17 14:58:08,908:      pdf_renderer.py:  470: printSegment: )
+   DEBUG: 2025-05-17 14:58:08,909:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,909:      pdf_renderer.py:  470: printSegment: Implements the user interface
+   DEBUG: 2025-05-17 14:58:08,910:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,912:      pdf_renderer.py:  470: printSegment: Manages visualization layouts
+   DEBUG: 2025-05-17 14:58:08,913:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,914:      pdf_renderer.py:  470: printSegment: Handles real-time updates
+   DEBUG: 2025-05-17 14:58:08,914:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,915:      pdf_renderer.py:  470: printSegment: Provides interactive controls
+   DEBUG: 2025-05-17 14:58:08,916:      pdf_renderer.py:  470: printSegment: 3. Controller (
+   DEBUG: 2025-05-17 14:58:08,917:      pdf_renderer.py:  470: printSegment: main.py
+   DEBUG: 2025-05-17 14:58:08,918:      pdf_renderer.py:  470: printSegment: )
+   DEBUG: 2025-05-17 14:58:08,918:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,919:      pdf_renderer.py:  470: printSegment: Coordinates system components
+   DEBUG: 2025-05-17 14:58:08,920:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,921:      pdf_renderer.py:  470: printSegment: Handles user input
+   DEBUG: 2025-05-17 14:58:08,922:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,924:      pdf_renderer.py:  470: printSegment: Manages application state
+   DEBUG: 2025-05-17 14:58:08,925:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,926:      pdf_renderer.py:  470: printSegment: Orchestrates updates
+   DEBUG: 2025-05-17 14:58:08,927:      pdf_renderer.py:  470: printSegment: Installation 
+   DEBUG: 2025-05-17 14:58:08,929:      pdf_renderer.py:  470: printSegment: &
+   DEBUG: 2025-05-17 14:58:08,930:      pdf_renderer.py:  470: printSegment:  Setup
+   DEBUG: 2025-05-17 14:58:08,931:      pdf_renderer.py:  470: printSegment: Prerequisites
+   DEBUG: 2025-05-17 14:58:08,932:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,933:      pdf_renderer.py:  470: printSegment: Python 
+   DEBUG: 2025-05-17 14:58:08,933:      pdf_renderer.py:  470: printSegment: <
+   DEBUG: 2025-05-17 14:58:08,934:      pdf_renderer.py:  470: printSegment: 3.8
+   DEBUG: 2025-05-17 14:58:08,935:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,935:      pdf_renderer.py:  470: printSegment: TensorFlow 1.15
+   DEBUG: 2025-05-17 14:58:08,936:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,936:      pdf_renderer.py:  470: printSegment: Bokeh ≤2.2.3
+   DEBUG: 2025-05-17 14:58:08,948:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,949:      pdf_renderer.py:  470: printSegment: CUDA support for GPU acceleration
+   DEBUG: 2025-05-17 14:58:08,950:      pdf_renderer.py:  470: printSegment: Installation Steps
+   DEBUG: 2025-05-17 14:58:08,951:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-05-17 14:58:08,951:      pdf_renderer.py:  470: printSegment: Clone the repository:
+   DEBUG: 2025-05-17 14:58:08,952:      pdf_renderer.py:  470: printSegment: git clone
+   DEBUG: 2025-05-17 14:58:08,953:      pdf_renderer.py:  470: printSegment: https://github.com/martindyrba/DeepLearningInteractiveVis
+   DEBUG: 2025-05-17 14:58:08,954:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-05-17 14:58:08,955:      pdf_renderer.py:  470: printSegment: Create a Python environment:
+   DEBUG: 2025-05-17 14:58:08,955:      pdf_renderer.py:  470: printSegment: conda create -n InteractiveVis python=3.7
+   DEBUG: 2025-05-17 14:58:08,956:      pdf_renderer.py:  470: printSegment: conda activate InteractiveVis
+   DEBUG: 2025-05-17 14:58:08,956:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-05-17 14:58:08,957:      pdf_renderer.py:  470: printSegment: Install dependencies:
+   DEBUG: 2025-05-17 14:58:08,958:      pdf_renderer.py:  470: printSegment: pip install -r requirements.txt
+   DEBUG: 2025-05-17 14:58:08,959:      pdf_renderer.py:  470: printSegment: Docker Deployment
+   DEBUG: 2025-05-17 14:58:08,960:      pdf_renderer.py:  470: printSegment: docker pull martindyrba/interactivevis
+   DEBUG: 2025-05-17 14:58:08,963:      pdf_renderer.py:  470: printSegment: ./run_docker_intvis.sh
+   DEBUG: 2025-05-17 14:58:08,965:      pdf_renderer.py:  470: printSegment: Usage Guide
+   DEBUG: 2025-05-17 14:58:08,967:      pdf_renderer.py:  470: printSegment: Starting the Application
+   DEBUG: 2025-05-17 14:58:08,969:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-05-17 14:58:08,971:      pdf_renderer.py:  470: printSegment: Local Installation:
+   DEBUG: 2025-05-17 14:58:08,972:      pdf_renderer.py:  470: printSegment: bokeh serve InteractiveVis --show
+   DEBUG: 2025-05-17 14:58:08,974:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-05-17 14:58:08,976:      pdf_renderer.py:  470: printSegment: Docker Container:
+   DEBUG: 2025-05-17 14:58:08,979:      pdf_renderer.py:  470: printSegment: ./run_docker_intvis.sh
+   DEBUG: 2025-05-17 14:58:08,981:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-05-17 14:58:08,984:      pdf_renderer.py:  470: printSegment: Web Service:
+   DEBUG: 2025-05-17 14:58:08,985:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,987:      pdf_renderer.py:  470: printSegment: Access the demo at: https://explaination.net/demo
+   DEBUG: 2025-05-17 14:58:08,989:      pdf_renderer.py:  470: printSegment: Using the Interface
+   DEBUG: 2025-05-17 14:58:08,991:      pdf_renderer.py:  470: printSegment:  1 
+   DEBUG: 2025-05-17 14:58:08,993:      pdf_renderer.py:  470: printSegment: Subject Selection
+   DEBUG: 2025-05-17 14:58:08,996:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:08,997:      pdf_renderer.py:  470: printSegment: Choose from internal dataset
+   DEBUG: 2025-05-17 14:58:08,998:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,001:      pdf_renderer.py:  470: printSegment: Upload custom brain scans
+   DEBUG: 2025-05-17 14:58:09,002:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,004:      pdf_renderer.py:  470: printSegment: Enter subject information
+   DEBUG: 2025-05-17 14:58:09,005:      pdf_renderer.py:  470: printSegment:  2 
+   DEBUG: 2025-05-17 14:58:09,006:      pdf_renderer.py:  470: printSegment: Visualization Controls
+   DEBUG: 2025-05-17 14:58:09,007:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,008:      pdf_renderer.py:  470: printSegment: Adjust relevance thresholds
+   DEBUG: 2025-05-17 14:58:09,009:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,009:      pdf_renderer.py:  470: printSegment: Control transparency
+   DEBUG: 2025-05-17 14:58:09,010:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,011:      pdf_renderer.py:  470: printSegment: Navigate brain regions
+   DEBUG: 2025-05-17 14:58:09,012:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,013:      pdf_renderer.py:  470: printSegment: View cluster statistics
+   DEBUG: 2025-05-17 14:58:09,014:      pdf_renderer.py:  470: printSegment:  3 
+   DEBUG: 2025-05-17 14:58:09,014:      pdf_renderer.py:  470: printSegment: Analysis Features
+   DEBUG: 2025-05-17 14:58:09,015:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,016:      pdf_renderer.py:  470: printSegment: Real-time relevance mapping
+   DEBUG: 2025-05-17 14:58:09,017:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,017:      pdf_renderer.py:  470: printSegment: Region identification
+   DEBUG: 2025-05-17 14:58:09,018:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,019:      pdf_renderer.py:  470: printSegment: Statistical analysis
+   DEBUG: 2025-05-17 14:58:09,019:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,020:      pdf_renderer.py:  470: printSegment: Export capabilities
+   DEBUG: 2025-05-17 14:58:09,021:      pdf_renderer.py:  470: printSegment: Code Documentation
+   DEBUG: 2025-05-17 14:58:09,022:      pdf_renderer.py:  470: printSegment: Key Classes and Methods
+   DEBUG: 2025-05-17 14:58:09,022:      pdf_renderer.py:  470: printSegment: Model Class
+   DEBUG: 2025-05-17 14:58:09,023:      pdf_renderer.py:  470: printSegment: class Model:
+   DEBUG: 2025-05-17 14:58:09,024:      pdf_renderer.py:  470: printSegment:     def set_subject(self, subject_id):
+   DEBUG: 2025-05-17 14:58:09,025:      pdf_renderer.py:  470: printSegment:         """Sets the current subject and loads their data"""
+   DEBUG: 2025-05-17 14:58:09,025:      pdf_renderer.py:  470: printSegment:         
+   DEBUG: 2025-05-17 14:58:09,026:      pdf_renderer.py:  470: printSegment:     def apply_thresholds(self, relevance_map, threshold):
+   DEBUG: 2025-05-17 14:58:09,027:      pdf_renderer.py:  470: printSegment:         """Applies thresholds to relevance maps"""
+   DEBUG: 2025-05-17 14:58:09,028:      pdf_renderer.py:  470: printSegment:         
+   DEBUG: 2025-05-17 14:58:09,030:      pdf_renderer.py:  470: printSegment:     def process_visualization(self):
+   DEBUG: 2025-05-17 14:58:09,030:      pdf_renderer.py:  470: printSegment:         """Processes data for visualization"""
+   DEBUG: 2025-05-17 14:58:09,031:      pdf_renderer.py:  470: printSegment: View Class
+   DEBUG: 2025-05-17 14:58:09,032:      pdf_renderer.py:  470: printSegment: class View:
+   DEBUG: 2025-05-17 14:58:09,033:      pdf_renderer.py:  470: printSegment:     def update_visualization(self):
+   DEBUG: 2025-05-17 14:58:09,034:      pdf_renderer.py:  470: printSegment:         """Updates the visualization display"""
+   DEBUG: 2025-05-17 14:58:09,035:      pdf_renderer.py:  470: printSegment:         
+   DEBUG: 2025-05-17 14:58:09,036:      pdf_renderer.py:  470: printSegment:     def handle_interaction(self, event):
+   DEBUG: 2025-05-17 14:58:09,037:      pdf_renderer.py:  470: printSegment:         """Handles user interaction events"""
+   DEBUG: 2025-05-17 14:58:09,037:      pdf_renderer.py:  470: printSegment:         
+   DEBUG: 2025-05-17 14:58:09,039:      pdf_renderer.py:  470: printSegment:     def render_overlay(self):
+   DEBUG: 2025-05-17 14:58:09,040:      pdf_renderer.py:  470: printSegment:         """Renders the relevance map overlay"""
+   DEBUG: 2025-05-17 14:58:09,042:      pdf_renderer.py:  470: printSegment: Research Impact
+   DEBUG: 2025-05-17 14:58:09,043:      pdf_renderer.py:  470: printSegment: Clinical Applications
+   DEBUG: 2025-05-17 14:58:09,045:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,046:      pdf_renderer.py:  470: printSegment: Improved understanding of CNN decisions
+   DEBUG: 2025-05-17 14:58:09,048:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,049:      pdf_renderer.py:  470: printSegment: Enhanced diagnostic support
+   DEBUG: 2025-05-17 14:58:09,050:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,051:      pdf_renderer.py:  470: printSegment: Better interpretation of results
+   DEBUG: 2025-05-17 14:58:09,052:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,053:      pdf_renderer.py:  470: printSegment: Validation across multiple datasets
+   DEBUG: 2025-05-17 14:58:09,054:      pdf_renderer.py:  470: printSegment: Technical Contributions
+   DEBUG: 2025-05-17 14:58:09,055:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,056:      pdf_renderer.py:  470: printSegment: Novel visualization approach
+   DEBUG: 2025-05-17 14:58:09,057:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,058:      pdf_renderer.py:  470: printSegment: Interactive relevance mapping
+   DEBUG: 2025-05-17 14:58:09,058:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,059:      pdf_renderer.py:  470: printSegment: Real-time analysis capabilities
+   DEBUG: 2025-05-17 14:58:09,061:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,062:      pdf_renderer.py:  470: printSegment: Extensible architecture
+   DEBUG: 2025-05-17 14:58:09,063:      pdf_renderer.py:  470: printSegment: Future Directions
+   DEBUG: 2025-05-17 14:58:09,064:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,065:      pdf_renderer.py:  470: printSegment: Enhanced model interpretability
+   DEBUG: 2025-05-17 14:58:09,066:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,066:      pdf_renderer.py:  470: printSegment: Extended dataset support
+   DEBUG: 2025-05-17 14:58:09,067:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,068:      pdf_renderer.py:  470: printSegment: Advanced visualization features
+   DEBUG: 2025-05-17 14:58:09,068:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,069:      pdf_renderer.py:  470: printSegment: Improved clinical integration
+   DEBUG: 2025-05-17 14:58:09,070:      pdf_renderer.py:  470: printSegment: Resources
+   DEBUG: 2025-05-17 14:58:09,071:      pdf_renderer.py:  470: printSegment: Project Links
+   DEBUG: 2025-05-17 14:58:09,071:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,072:      pdf_renderer.py:  470: printSegment: GitHub: 
+   DEBUG: 2025-05-17 14:58:09,072:      pdf_renderer.py:  470: printSegment: github.com/martindyrba/DeepLearningInteractiveVis
+   DEBUG: 2025-05-17 14:58:09,074:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,075:      pdf_renderer.py:  470: printSegment: Docker Hub: 
+   DEBUG: 2025-05-17 14:58:09,076:      pdf_renderer.py:  470: printSegment: docker pull martindyrba/interactivevis
+   DEBUG: 2025-05-17 14:58:09,078:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,079:      pdf_renderer.py:  470: printSegment: Demo: 
+   DEBUG: 2025-05-17 14:58:09,080:      pdf_renderer.py:  470: printSegment: explaination.net/demo
+   DEBUG: 2025-05-17 14:58:09,081:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,084:      pdf_renderer.py:  470: printSegment: Documentation: Available in project README
+   DEBUG: 2025-05-17 14:58:09,084:      pdf_renderer.py:  470: printSegment: Support
+   DEBUG: 2025-05-17 14:58:09,086:      pdf_renderer.py:  470: printSegment: For issues and questions:
+   DEBUG: 2025-05-17 14:58:09,087:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,088:      pdf_renderer.py:  470: printSegment: GitHub Issues
+   DEBUG: 2025-05-17 14:58:09,088:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,089:      pdf_renderer.py:  470: printSegment: Project Documentation
+   DEBUG: 2025-05-17 14:58:09,090:      pdf_renderer.py:  470: printSegment: l
+   DEBUG: 2025-05-17 14:58:09,091:      pdf_renderer.py:  470: printSegment: Research Paper References
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 0, [1, 'Deep Learning Interactive Visualization', 1, 68.0]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 1, [2, 'Project Documentation', 1, 106.0]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 2, [2, 'Table of Contents', 1, 139.60000000000002]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 3, [2, 'Project Overview', 1, 281.20000000000005]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 4, [3, 'Purpose', 1, 314.40000000000003]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 5, [3, 'Publication', 1, 385.2]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 6, [3, 'Key Features', 1, 479.99999999999994]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 7, [2, 'Technical Architecture', 1, 581.1999999999998]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 8, [3, 'MVC Architecture', 1, 614.3999999999997]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 9, [3, 'Core Technologies', 2, 72.0]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 10, [2, 'Implementation Details', 2, 305.2]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 11, [3, 'CNN Model', 2, 338.4]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 12, [3, 'Visualization System', 2, 553.1999999999999]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 13, [3, 'Interactive Features', 3, 104.4]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 14, [2, 'Core Components', 3, 319.6]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 15, [3, '1. Data Model (', 3, 352.8]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 16, [3, '2. View System (', 3, 441.59999999999997]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 17, [3, '3. Controller (', 3, 530.4]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 18, [2, 'Installation ', 3, 619.5999999999999]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 19, [3, 'Prerequisites', 3, 652.7999999999998]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 20, [3, 'Installation Steps', 4, 104.4]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 21, [3, 'Docker Deployment', 4, 289.2]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 22, [2, 'Usage Guide', 4, 354.4]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 23, [3, 'Starting the Application', 4, 387.59999999999997]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 24, [3, 'Using the Interface', 4, 536.4]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 25, [2, 'Code Documentation', 5, 134.8]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 26, [3, 'Key Classes and Methods', 5, 168.00000000000003]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 27, [4, 'Model Class', 5, 196.40000000000003]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 28, [4, 'View Class', 5, 340.40000000000003]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 29, [2, 'Research Impact', 5, 485.20000000000005]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 30, [3, 'Clinical Applications', 5, 518.4]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 31, [3, 'Technical Contributions', 5, 607.1999999999999]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 32, [3, 'Future Directions', 5, 695.9999999999999]
+   DEBUG: 2025-05-17 14:58:09,092:      pdf_renderer.py:   53: 33, [2, 'Resources', 6, 146.8]
+   DEBUG: 2025-05-17 14:58:09,094:      pdf_renderer.py:   53: 34, [3, 'Project Links', 6, 180.00000000000003]
+   DEBUG: 2025-05-17 14:58:09,094:      pdf_renderer.py:   53: 35, [3, 'Support', 6, 268.8]
